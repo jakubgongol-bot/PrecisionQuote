@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ALUMINUM_6061",
+    "name": "Hliník 6061",
+    "density": 2.7,
+    "defaultPricePerKg": 180
+  },
+  {
+    "id": "ALUMINUM_7075",
+    "name": "Hliník 7075",
+    "density": 2.81,
+    "defaultPricePerKg": 250
+  },
+  {
+    "id": "STEEL_1018",
+    "name": "Ocel 1018 (11 373)",
+    "density": 7.87,
+    "defaultPricePerKg": 45
+  },
+  {
+    "id": "STEEL_4140",
+    "name": "Ocel 4140 (15 142)",
+    "density": 7.85,
+    "defaultPricePerKg": 65
+  },
+  {
+    "id": "STAINLESS_303",
+    "name": "Nerez 303 (Automat)",
+    "density": 8,
+    "defaultPricePerKg": 120
+  },
+  {
+    "id": "STAINLESS_304",
+    "name": "Nerez 304 (Potravinářská)",
+    "density": 8,
+    "defaultPricePerKg": 140
+  },
+  {
+    "id": "BRASS_C360",
+    "name": "Mosaz C360",
+    "density": 8.5,
+    "defaultPricePerKg": 280
+  },
+  {
+    "id": "DELRIN_ACETAL",
+    "name": "Delrin (Acetal)",
+    "density": 1.41,
+    "defaultPricePerKg": 350
+  },
+  {
+    "id": "PEEK",
+    "name": "PEEK",
+    "density": 1.32,
+    "defaultPricePerKg": 2800
+  },
+  {
+    "id": "TITANIUM_6AL4V",
+    "name": "Titan 6Al-4V",
+    "density": 4.43,
+    "defaultPricePerKg": 1200
+  },
+  {
+    "id": "ABS",
+    "name": "ABS Plast",
+    "density": 1.04,
+    "defaultPricePerKg": 90
+  },
+  {
+    "id": "CUSTOM1",
+    "name": "Ocel RTS",
+    "density": 7.8,
+    "defaultPricePerKg": 55
+  }
+]
