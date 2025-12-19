@@ -1,7 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 import { QuoteDetails, CalculatedQuote, CrossSectionType } from '../types';
 
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: process.env.API_KEY || "dummy-key" });
 
 export const generateQuoteEmail = async (
   details: QuoteDetails,
